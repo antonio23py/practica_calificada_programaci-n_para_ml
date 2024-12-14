@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jorge\\OneDrive\\Escritorio\\UNI MIA DEV\\MIA_c\u002B\u002B\\practica_calificada_pml_2_10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B966AD09-5018-4EA8-ABB9-FAF1832D41AB}|practica_calificada_pml_2_10\\practica_calificada_pml_2_10.vcxproj|C:\\Users\\jorge\\OneDrive\\Escritorio\\UNI MIA DEV\\MIA_c\u002B\u002B\\practica_calificada_pml_2_10\\practica_calificada_pml_2_10\\problema_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B966AD09-5018-4EA8-ABB9-FAF1832D41AB}|practica_calificada_pml_2_10\\practica_calificada_pml_2_10.vcxproj|solutionrelative:practica_calificada_pml_2_10\\problema_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "problema_2.cpp",
+              "DocumentMoniker": "C:\\Users\\jorge\\OneDrive\\Escritorio\\UNI MIA DEV\\MIA_c\u002B\u002B\\practica_calificada_pml_2_10\\practica_calificada_pml_2_10\\problema_2.cpp",
+              "RelativeDocumentMoniker": "practica_calificada_pml_2_10\\problema_2.cpp",
+              "ToolTip": "C:\\Users\\jorge\\OneDrive\\Escritorio\\UNI MIA DEV\\MIA_c\u002B\u002B\\practica_calificada_pml_2_10\\practica_calificada_pml_2_10\\problema_2.cpp",
+              "RelativeToolTip": "practica_calificada_pml_2_10\\problema_2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-14T16:44:38.024Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

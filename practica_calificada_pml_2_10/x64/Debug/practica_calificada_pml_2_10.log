@@ -1,0 +1,8 @@
+﻿  problema_10.cpp
+C:\Users\jorge\OneDrive\Escritorio\UNI MIA DEV\MIA_c++\practica_calificada_pml_2_10\practica_calificada_pml_2_10\problema_10.cpp(7,18): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\jorge\OneDrive\Escritorio\UNI MIA DEV\MIA_c++\practica_calificada_pml_2_10\practica_calificada_pml_2_10\problema_10.cpp(8,21): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\jorge\OneDrive\Escritorio\UNI MIA DEV\MIA_c++\practica_calificada_pml_2_10\practica_calificada_pml_2_10\problema_10.cpp(21,15): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\jorge\OneDrive\Escritorio\UNI MIA DEV\MIA_c++\practica_calificada_pml_2_10\practica_calificada_pml_2_10\problema_10.cpp(22,18): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  LINK : no se encontró C:\Users\jorge\OneDrive\Escritorio\UNI MIA DEV\MIA_c++\practica_calificada_pml_2_10\x64\Debug\practica_calificada_pml_2_10.exe o no lo generó el último vínculo incremental; ejecutando vínculo completo
+problema_10.obj : error LNK2005: ya se definió main en problema_2.obj
+C:\Users\jorge\OneDrive\Escritorio\UNI MIA DEV\MIA_c++\practica_calificada_pml_2_10\x64\Debug\practica_calificada_pml_2_10.exe : fatal error LNK1169: se encontraron uno o más símbolos definidos simultáneamente
